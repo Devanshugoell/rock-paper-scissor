@@ -1,0 +1,16 @@
+h1{
+    font-weight: 100;
+}
+button{
+    background-color: transparent;
+    padding: 0.9%;
+    border-radius:20%;
+    color: blueviolet;
+    border : 5px solid red;
+    font-weight: 900;
+}
+/* main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
